@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Nissi\Entidades\bin\Debug\Entidades.dll
+C:\Users\Admin\source\repos\Nissi\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Admin\source\repos\Nissi\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nissi\Entidades\obj\Debug\Entidades.dll
+C:\Users\Admin\source\repos\Nissi\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Admin\source\repos\Nissi\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache

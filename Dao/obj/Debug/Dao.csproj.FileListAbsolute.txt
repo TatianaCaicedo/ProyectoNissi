@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Nissi\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Nissi\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\Dao.dll.config
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\Dao.dll
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\Dao.pdb
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\Entidades.dll
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\General.dll
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\Entidades.pdb
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\General.pdb
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Nissi\Dao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\Nissi\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\Admin\source\repos\Nissi\Dao\obj\Debug\Dao.dll
+C:\Users\Admin\source\repos\Nissi\Dao\obj\Debug\Dao.pdb

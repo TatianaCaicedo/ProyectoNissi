@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\obj\Debug\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\obj\Debug\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\Dao.dll
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\Entidades.dll
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\General.dll
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\Dao.pdb
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\Dao.dll.config
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\Entidades.pdb
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\bin\Debug\General.pdb
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\obj\Debug\BussinesLogic.csproj.CopyComplete
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\Admin\source\repos\Nissi\BussinesLogic\obj\Debug\BussinesLogic.pdb

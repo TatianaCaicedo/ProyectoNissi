@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Nissi\General\bin\Debug\General.dll
+C:\Users\Admin\source\repos\Nissi\General\bin\Debug\General.pdb
+C:\Users\Admin\source\repos\Nissi\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nissi\General\obj\Debug\General.dll
+C:\Users\Admin\source\repos\Nissi\General\obj\Debug\General.pdb
+C:\Users\Admin\source\repos\Nissi\General\obj\Debug\General.csproj.AssemblyReference.cache
